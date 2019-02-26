@@ -1,0 +1,87 @@
+body{
+  background-color: #C6F578;
+  font-family: 'Montserrat', sans-serif;
+  margin: 100px;
+}
+
+h4{
+  font-size: 2em;
+}
+
+.textP{
+  font-size: .7em;
+}
+
+.PXclass{
+  font-size: 30px;
+}
+
+.EMclass{
+  font-size: 1.5em;
+}
+
+.EXclass{
+  font-size: 3ex;
+}
+
+.REMclass{
+  font-size: 1.5rem;
+}
+
+.INclass{
+  font-size: .5in;
+}
+
+.CMclass{
+  font-size: 1.2cm;
+}
+
+.MMclass{
+  font-size: 10mm;
+}
+
+.PTclass{
+  font-size: 20pt;
+}
+
+.PCclass{
+  font-size: 2pc;
+}
+
+.P100class{
+  font-size: 120%;
+}
+
+.RGBdec{
+  background-color: rgb(155, 25, 120);
+}
+
+.RGBhex{
+  background-color: #C67F12;
+}
+
+.RGBpor{
+  background-color: rgb(27%, 38%, 69%);
+}
+
+.HSLtrans{
+  background-color: hsl(0,50%,50%);
+}
+
+.RGBA{
+  background-color: rgba(155, 25, 120,.3);
+}
+
+.HSLA{
+  background-color: hsla(0,50%,50%,.4);
+}
+
+.Padding{
+  padding: 20px;
+  border-color: black;
+}
+
+.Margin{
+  margin: 30px;
+  border-color: black;
+}
